@@ -3,7 +3,7 @@ version: 0.0.1
 author: naotohc <ntaoo.g@gmail.com>
 description: |
   PolymerDart Examples
-homepage: https://www.example.com
+homepage: https://github.com/ntaoo/polymer-dart-examples
 environment:
   sdk: '>=1.0.0 <2.0.0'
 dependencies:
